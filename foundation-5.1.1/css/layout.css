@@ -1,0 +1,41 @@
+.link-button {
+	margin: 10px;
+}
+
+.logo-img {
+	background-image:url(jslogo.png);
+	margin: 8px;
+}
+
+.title-left {
+	margin-right:2000px;
+}
+
+.home-pic {
+	width: 300px;
+	height: 300px;
+}
+
+.center-body {
+	margin-left: 400px;
+	margin-top: 20px;
+}
+
+.main-image {
+	height:250px;
+	width:250px;
+	border: none;
+	background:no-repeat;
+	position: relative;
+	background-image:url(../../assets/images/joel1.png);
+}
+
+.main-text {
+	height:290px;
+	width:285px;
+	text-align: left;
+}
+
+.top-nav {
+	margin-right: 100px;
+}
